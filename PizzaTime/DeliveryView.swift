@@ -6,7 +6,7 @@
 //
 // An exercise file for iOS Development Tips Weekly
 // A weekly course on LinkedIn Learning for iOS developers
-//  Season 13 (Q1 2021) video 02
+//  Season 13 (Q1 2021) video 04
 //  by Steven Lipton (C)2020, All rights reserved
 // Learn more at https://linkedin-learning.pxf.io/YxZgj
 //This Week:  Learn the first steps to making widgets on iOS
